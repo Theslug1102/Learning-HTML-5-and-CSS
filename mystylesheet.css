@@ -1,0 +1,21 @@
+body{
+  background-color: #0066ff;
+}
+
+#container{
+  width: 1024px;
+  margin:auto;
+  background-color: white;
+}
+
+#mainheading{
+  padding: 10px;
+}
+
+p{
+  padding: 10px;
+}
+
+footer{
+  padding: 10px;
+}
